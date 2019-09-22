@@ -6,6 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/Menu.unity
+    guid: 96109e18f2df51d47b98af7813d06875
+  - enabled: 1
+    path: Assets/Scenes/GreetingCard.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Rotate Cube.unity
+    guid: 74d80a885d52fe646ba30071c8249465
   m_configObjects: {}
